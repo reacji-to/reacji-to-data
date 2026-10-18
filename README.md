@@ -2,7 +2,7 @@
 
 Public emoji reactions for [reacji.to](https://reacji.to), stored as Git commits.
 
-The extension and Cloudflare Worker source live separately in [reacji-to/reacji-to](https://github.com/reacji-to/reacji-to).
+The [extension](https://github.com/reacji-to/reacji-to) and [website / Cloudflare Worker](https://github.com/reacji-to/reacji-to-web) each have their own source repository. All three repositories use the MIT license.
 
 - `data/<uuid>.json`: one dev-null post.
 - `data/x/<id>.json` and `data/linkedin/<id>.json`: one social post.
