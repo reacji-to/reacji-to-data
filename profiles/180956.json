@@ -33,24 +33,6 @@
       "at": "2026-10-19T04:50:23.144Z",
       "url": "https://dev-null.sh/@brendt/commits/01a15276-3235-733c-be7b-518e21b3472b"
     },
-    "web:622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445:8f260e52-89aa-478d-a815-cf3e19a455c4": {
-      "post": {
-        "platform": "web",
-        "id": "622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445",
-        "url": "http://127.0.0.1:4173/"
-      },
-      "placement": {
-        "id": "8f260e52-89aa-478d-a815-cf3e19a455c4",
-        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
-        "tag": "p",
-        "quote": "Now you can react to any post anywhere with any emoji you want.",
-        "x": 953,
-        "y": 64
-      },
-      "emoji": "🎄",
-      "at": "2026-10-19T05:12:36.785Z",
-      "url": "http://127.0.0.1:4173/"
-    },
     "devnull:01a1511e-f395-719e-94f2-131488efdbed": {
       "post": {
         "platform": "devnull",
