@@ -224,6 +224,25 @@
       "emoji": "🔥",
       "at": "2026-10-19T07:41:37.828Z",
       "url": "https://x.com/i/status/2112086595960782953"
+    },
+    "web:761a7fc1155e3224968af96d4cac20a84b24604a1292329edc6a3f0d9918010e:4acd4a04-9115-4a7b-ac2d-971c3fff82b8": {
+      "post": {
+        "platform": "web",
+        "id": "761a7fc1155e3224968af96d4cac20a84b24604a1292329edc6a3f0d9918010e",
+        "url": "https://www.linkedin.com/feed/"
+      },
+      "placement": {
+        "id": "4acd4a04-9115-4a7b-ac2d-971c3fff82b8",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "quote": "Sort by: Top",
+        "x": 395,
+        "y": 600,
+        "mode": "point"
+      },
+      "emoji": "😂",
+      "at": "2026-10-19T07:46:29.580Z",
+      "url": "https://www.linkedin.com/feed/"
     }
   }
 }
