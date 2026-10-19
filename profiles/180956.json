@@ -160,6 +160,15 @@
       "emoji": "🤪",
       "at": "2026-10-19T06:07:04.105Z",
       "url": "https://dev-null.sh/log/trending"
+    },
+    "linkedin:7517210854648512512": {
+      "post": {
+        "platform": "linkedin",
+        "id": "7517210854648512512"
+      },
+      "emoji": "😁",
+      "at": "2026-10-19T06:19:53.388Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7517210854648512512/"
     }
   }
 }
