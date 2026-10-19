@@ -169,6 +169,24 @@
       "emoji": "😁",
       "at": "2026-10-19T06:19:53.388Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7517210854648512512/"
+    },
+    "web:0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7:72fffc6a-455e-4acf-998d-fb2edce5aa46": {
+      "post": {
+        "platform": "web",
+        "id": "0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7",
+        "url": "https://example.com/"
+      },
+      "placement": {
+        "id": "72fffc6a-455e-4acf-998d-fb2edce5aa46",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+        "tag": "body",
+        "quote": "",
+        "x": 300,
+        "y": 134
+      },
+      "emoji": "😝",
+      "at": "2026-10-19T06:26:48.390Z",
+      "url": "https://example.com/"
     }
   }
 }

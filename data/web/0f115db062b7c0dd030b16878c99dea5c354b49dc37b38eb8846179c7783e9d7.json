@@ -25,6 +25,24 @@
           "at": "2026-10-19T05:24:09.711Z"
         }
       }
+    },
+    "72fffc6a-455e-4acf-998d-fb2edce5aa46": {
+      "anchor": {
+        "id": "72fffc6a-455e-4acf-998d-fb2edce5aa46",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+        "tag": "body",
+        "quote": "",
+        "x": 300,
+        "y": 134
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "😝",
+          "requestId": "8cf5e64c-d14c-4dae-844c-6b89098d2b56",
+          "at": "2026-10-19T06:26:48.390Z"
+        }
+      }
     }
   }
 }
