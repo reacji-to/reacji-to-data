@@ -224,6 +224,15 @@
       "emoji": "🔥",
       "at": "2026-10-19T07:41:37.828Z",
       "url": "https://x.com/i/status/2112086595960782953"
+    },
+    "linkedin:7517836966965436417": {
+      "post": {
+        "platform": "linkedin",
+        "id": "7517836966965436417"
+      },
+      "emoji": "😃",
+      "at": "2026-10-19T07:47:30.514Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7517836966965436417/"
     }
   }
 }
