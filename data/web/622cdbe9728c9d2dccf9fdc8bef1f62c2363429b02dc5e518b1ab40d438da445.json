@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "commit": "622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445",
+  "post": {
+    "platform": "web",
+    "id": "622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445",
+    "url": "http://127.0.0.1:4173/"
+  },
+  "users": {},
+  "placements": {
+    "8f260e52-89aa-478d-a815-cf3e19a455c4": {
+      "anchor": {
+        "id": "8f260e52-89aa-478d-a815-cf3e19a455c4",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+        "tag": "p",
+        "quote": "Now you can react to any post anywhere with any emoji you want.",
+        "x": 953,
+        "y": 64
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "🤪",
+          "requestId": "60bd87e9-61d7-42a3-82ba-667e40628c25",
+          "at": "2026-10-19T05:06:39.495Z"
+        }
+      }
+    }
+  }
+}
