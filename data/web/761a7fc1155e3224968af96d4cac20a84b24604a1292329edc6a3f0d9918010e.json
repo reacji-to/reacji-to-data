@@ -7,25 +7,5 @@
     "url": "https://www.linkedin.com/feed/"
   },
   "users": {},
-  "placements": {
-    "8f8257c0-a6e2-4566-88e4-4ac4509cc53e": {
-      "anchor": {
-        "id": "8f8257c0-a6e2-4566-88e4-4ac4509cc53e",
-        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
-        "tag": "div",
-        "quote": "Predrag Radenkovic • 1st CTO at *codeplain 1h",
-        "x": 535,
-        "y": 127,
-        "mode": "point"
-      },
-      "users": {
-        "180956": {
-          "login": "mrjf",
-          "emoji": "👍",
-          "requestId": "f36bda4e-43a3-4c9a-8d83-692a737a120c",
-          "at": "2026-10-19T07:46:38.172Z"
-        }
-      }
-    }
-  }
+  "placements": {}
 }
