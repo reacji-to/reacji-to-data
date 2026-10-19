@@ -142,6 +142,24 @@
       "emoji": "😂",
       "at": "2026-10-19T06:06:55.105Z",
       "url": "https://dev-null.sh/log/trending"
+    },
+    "web:156a6cccc1f28b1b82809304d63d4fa19e5bef014b92318426f360b498fe882e:cf7d215d-c274-4d0f-aff8-dae0ff6e1871": {
+      "post": {
+        "platform": "web",
+        "id": "156a6cccc1f28b1b82809304d63d4fa19e5bef014b92318426f360b498fe882e",
+        "url": "https://dev-null.sh/log/trending"
+      },
+      "placement": {
+        "id": "cf7d215d-c274-4d0f-aff8-dae0ff6e1871",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "quote": "Brent Roose @brendt · 1h 4e02a92",
+        "x": 360,
+        "y": 347
+      },
+      "emoji": "🤪",
+      "at": "2026-10-19T06:07:04.105Z",
+      "url": "https://dev-null.sh/log/trending"
     }
   }
 }
