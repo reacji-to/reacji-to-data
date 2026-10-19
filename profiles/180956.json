@@ -78,6 +78,16 @@
       "emoji": "😜",
       "at": "2026-10-19T05:35:44.149Z",
       "url": "http://127.0.0.1:4173/"
+    },
+    "devnull:01a152c3-ba02-725f-bc5e-bdc0ba3feb44": {
+      "post": {
+        "platform": "devnull",
+        "id": "01a152c3-ba02-725f-bc5e-bdc0ba3feb44",
+        "author": "mherfeh"
+      },
+      "emoji": "😄",
+      "at": "2026-10-19T06:06:36.800Z",
+      "url": "https://dev-null.sh/@mherfeh/commits/01a152c3-ba02-725f-bc5e-bdc0ba3feb44"
     }
   }
 }
