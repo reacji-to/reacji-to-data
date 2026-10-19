@@ -43,6 +43,24 @@
           "at": "2026-10-19T06:06:50.269Z"
         }
       }
+    },
+    "6dada6ab-e029-46fc-8d69-4ee6fd444a09": {
+      "anchor": {
+        "id": "6dada6ab-e029-46fc-8d69-4ee6fd444a09",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+        "tag": "div",
+        "quote": "tomorrow stream hacking on /dev/null?",
+        "x": 555,
+        "y": 569
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "😂",
+          "requestId": "15125f18-d721-49bd-9d7c-5bbdad0ca862",
+          "at": "2026-10-19T06:06:55.105Z"
+        }
+      }
     }
   }
 }
