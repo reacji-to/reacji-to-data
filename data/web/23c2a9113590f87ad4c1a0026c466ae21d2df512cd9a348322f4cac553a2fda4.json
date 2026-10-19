@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "commit": "23c2a9113590f87ad4c1a0026c466ae21d2df512cd9a348322f4cac553a2fda4",
+  "post": {
+    "platform": "web",
+    "id": "23c2a9113590f87ad4c1a0026c466ae21d2df512cd9a348322f4cac553a2fda4",
+    "url": "https://github.com/login/device/success"
+  },
+  "users": {},
+  "placements": {
+    "e8abcc14-b9b4-41c4-9062-3e901afe0775": {
+      "anchor": {
+        "id": "e8abcc14-b9b4-41c4-9062-3e901afe0775",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "quote": "",
+        "x": 663,
+        "y": 385
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "🥶",
+          "requestId": "11442331-1bc5-476a-a508-642c701f7109",
+          "at": "2026-10-19T00:31:58.414Z"
+        }
+      }
+    }
+  }
+}
