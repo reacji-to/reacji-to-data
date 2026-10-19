@@ -25,6 +25,24 @@
           "at": "2026-10-19T05:06:39.495Z"
         }
       }
+    },
+    "ae4826cc-cfe8-4733-b805-a7f1bdd5b97d": {
+      "anchor": {
+        "id": "ae4826cc-cfe8-4733-b805-a7f1bdd5b97d",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "quote": "You know how you can choose any reaction emoji you want in Slack, but most sites only give you a thumb or a star or whatever?",
+        "x": 879,
+        "y": 552
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "😝",
+          "requestId": "9942b136-3a24-4248-8bd6-7430196fad81",
+          "at": "2026-10-19T05:10:11.685Z"
+        }
+      }
     }
   }
 }
