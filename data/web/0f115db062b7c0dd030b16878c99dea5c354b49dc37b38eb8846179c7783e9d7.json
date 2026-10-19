@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "commit": "0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7",
+  "post": {
+    "platform": "web",
+    "id": "0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7",
+    "url": "https://example.com/"
+  },
+  "users": {},
+  "placements": {
+    "d09dcc5f-0577-480c-a022-5eb9f37275ee": {
+      "anchor": {
+        "id": "d09dcc5f-0577-480c-a022-5eb9f37275ee",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "quote": "This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.",
+        "x": 500,
+        "y": 498
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "👀",
+          "requestId": "1ac1c963-78d1-4bb3-8b44-265a9d218f16",
+          "at": "2026-10-19T05:24:09.711Z"
+        }
+      }
+    }
+  }
+}
