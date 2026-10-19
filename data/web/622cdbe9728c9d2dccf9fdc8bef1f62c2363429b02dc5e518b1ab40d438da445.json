@@ -7,5 +7,24 @@
     "url": "http://127.0.0.1:4173/"
   },
   "users": {},
-  "placements": {}
+  "placements": {
+    "80b556a2-db36-41df-b53d-e4f99cb625fd": {
+      "anchor": {
+        "id": "80b556a2-db36-41df-b53d-e4f99cb625fd",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "quote": "People often pair rounded shapes with soft sounds and sharp shapes with sharper sounds. Researchers tested whether dogs make similar associations.",
+        "x": 421,
+        "y": 134
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "😜",
+          "requestId": "ef71ca4b-fd6f-4f2a-bd08-32db9a195cd6",
+          "at": "2026-10-19T05:35:44.149Z"
+        }
+      }
+    }
+  }
 }

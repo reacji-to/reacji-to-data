@@ -60,6 +60,24 @@
       "emoji": "👀",
       "at": "2026-10-19T05:24:09.711Z",
       "url": "https://example.com/"
+    },
+    "web:622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445:80b556a2-db36-41df-b53d-e4f99cb625fd": {
+      "post": {
+        "platform": "web",
+        "id": "622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445",
+        "url": "http://127.0.0.1:4173/"
+      },
+      "placement": {
+        "id": "80b556a2-db36-41df-b53d-e4f99cb625fd",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "quote": "People often pair rounded shapes with soft sounds and sharp shapes with sharper sounds. Researchers tested whether dogs make similar associations.",
+        "x": 421,
+        "y": 134
+      },
+      "emoji": "😜",
+      "at": "2026-10-19T05:35:44.149Z",
+      "url": "http://127.0.0.1:4173/"
     }
   }
 }
