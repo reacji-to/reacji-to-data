@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "commit": "06f48864c409b9e8fa42a596f123102931e9764e5a7288e8a74fadbb984f0a3c",
+  "post": {
+    "platform": "web",
+    "id": "06f48864c409b9e8fa42a596f123102931e9764e5a7288e8a74fadbb984f0a3c",
+    "url": "https://imbue.com/"
+  },
+  "users": {},
+  "placements": {
+    "ac17e29d-0e46-4b13-83b8-c75dcaf4fc35": {
+      "anchor": {
+        "id": "ac17e29d-0e46-4b13-83b8-c75dcaf4fc35",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > astro-island:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+        "tag": "p",
+        "quote": "Your tools should work for you,",
+        "x": 761,
+        "y": 786,
+        "mode": "point"
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "🥰",
+          "requestId": "0de4696e-727b-42b8-8dbe-89031b48f7c0",
+          "at": "2026-10-19T06:49:57.592Z"
+        }
+      }
+    }
+  }
+}

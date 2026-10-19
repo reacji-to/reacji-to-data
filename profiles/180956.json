@@ -187,6 +187,25 @@
       "emoji": "😝",
       "at": "2026-10-19T06:26:48.390Z",
       "url": "https://example.com/"
+    },
+    "web:06f48864c409b9e8fa42a596f123102931e9764e5a7288e8a74fadbb984f0a3c:ac17e29d-0e46-4b13-83b8-c75dcaf4fc35": {
+      "post": {
+        "platform": "web",
+        "id": "06f48864c409b9e8fa42a596f123102931e9764e5a7288e8a74fadbb984f0a3c",
+        "url": "https://imbue.com/"
+      },
+      "placement": {
+        "id": "ac17e29d-0e46-4b13-83b8-c75dcaf4fc35",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > astro-island:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+        "tag": "p",
+        "quote": "Your tools should work for you,",
+        "x": 761,
+        "y": 786,
+        "mode": "point"
+      },
+      "emoji": "🥰",
+      "at": "2026-10-19T06:49:57.592Z",
+      "url": "https://imbue.com/"
     }
   }
 }
