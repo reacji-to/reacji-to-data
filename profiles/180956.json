@@ -60,24 +60,6 @@
       "emoji": "😁",
       "at": "2026-10-19T05:07:32.580Z",
       "url": "https://dev-null.sh/@nunomaduro/commits/01a1511e-f395-719e-94f2-131488efdbed"
-    },
-    "web:622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445:ae4826cc-cfe8-4733-b805-a7f1bdd5b97d": {
-      "post": {
-        "platform": "web",
-        "id": "622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445",
-        "url": "http://127.0.0.1:4173/"
-      },
-      "placement": {
-        "id": "ae4826cc-cfe8-4733-b805-a7f1bdd5b97d",
-        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
-        "tag": "p",
-        "quote": "You know how you can choose any reaction emoji you want in Slack, but most sites only give you a thumb or a star or whatever?",
-        "x": 879,
-        "y": 552
-      },
-      "emoji": "😝",
-      "at": "2026-10-19T05:10:11.685Z",
-      "url": "http://127.0.0.1:4173/"
     }
   }
 }
