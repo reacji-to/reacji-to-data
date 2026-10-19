@@ -2,24 +2,5 @@
   "version": 1,
   "id": 180956,
   "login": "mrjf",
-  "reactions": {
-    "web:23c2a9113590f87ad4c1a0026c466ae21d2df512cd9a348322f4cac553a2fda4:e8abcc14-b9b4-41c4-9062-3e901afe0775": {
-      "post": {
-        "platform": "web",
-        "id": "23c2a9113590f87ad4c1a0026c466ae21d2df512cd9a348322f4cac553a2fda4",
-        "url": "https://github.com/login/device/success"
-      },
-      "placement": {
-        "id": "e8abcc14-b9b4-41c4-9062-3e901afe0775",
-        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
-        "tag": "div",
-        "quote": "",
-        "x": 663,
-        "y": 385
-      },
-      "emoji": "🥶",
-      "at": "2026-10-19T00:31:58.414Z",
-      "url": "https://github.com/login/device/success"
-    }
-  }
+  "reactions": {}
 }
