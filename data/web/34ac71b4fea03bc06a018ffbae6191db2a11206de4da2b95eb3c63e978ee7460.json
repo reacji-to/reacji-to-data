@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "commit": "34ac71b4fea03bc06a018ffbae6191db2a11206de4da2b95eb3c63e978ee7460",
+  "post": {
+    "platform": "web",
+    "id": "34ac71b4fea03bc06a018ffbae6191db2a11206de4da2b95eb3c63e978ee7460",
+    "url": "https://x.com/flohoeller"
+  },
+  "users": {},
+  "placements": {
+    "51232d68-8f59-417f-b049-e8747f7aa5a7": {
+      "anchor": {
+        "id": "51232d68-8f59-417f-b049-e8747f7aa5a7",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "tag": "img",
+        "quote": "",
+        "x": 450,
+        "y": 893,
+        "mode": "point"
+      },
+      "users": {
+        "180956": {
+          "login": "mrjf",
+          "emoji": "🖋️",
+          "requestId": "3f1a3c8f-c038-4f9d-b5e4-cdf6ea53b82d",
+          "at": "2026-10-20T05:03:25.451Z"
+        }
+      }
+    }
+  }
+}
