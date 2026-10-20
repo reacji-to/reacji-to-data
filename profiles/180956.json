@@ -270,6 +270,16 @@
       "emoji": "👀",
       "at": "2026-10-19T08:16:59.818Z",
       "url": "https://x.com/i/status/2111500270664368451"
+    },
+    "devnull:01a1577f-43d2-728e-86ce-cc1e79a90be6": {
+      "post": {
+        "platform": "devnull",
+        "id": "01a1577f-43d2-728e-86ce-cc1e79a90be6",
+        "author": "florianbeer"
+      },
+      "emoji": "💡",
+      "at": "2026-10-20T05:02:44.265Z",
+      "url": "https://dev-null.sh/@florianbeer/commits/01a1577f-43d2-728e-86ce-cc1e79a90be6"
     }
   }
 }
