@@ -299,6 +299,25 @@
       "emoji": "🖋️",
       "at": "2026-10-20T05:03:25.451Z",
       "url": "https://x.com/flohoeller"
+    },
+    "web:94899f6157b487635e4cf699786a9a74271385363b46912118de95a320c3e8ab:1c7ce1cf-8ec1-44e2-9082-ed53b0de73f7": {
+      "post": {
+        "platform": "web",
+        "id": "94899f6157b487635e4cf699786a9a74271385363b46912118de95a320c3e8ab",
+        "url": "https://www.affectui.com/"
+      },
+      "placement": {
+        "id": "1c7ce1cf-8ec1-44e2-9082-ed53b0de73f7",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > section:nth-of-type(1)",
+        "tag": "section",
+        "quote": "Agent-ready UI for AI products 110+ React components, screens and blocks. No dependencies. Add them yourself, or let Claude, Cursor or v0 do it. Browse library ",
+        "x": 439,
+        "y": 179,
+        "mode": "point"
+      },
+      "emoji": "🖋️",
+      "at": "2026-10-20T05:03:36.223Z",
+      "url": "https://www.affectui.com/"
     }
   }
 }
