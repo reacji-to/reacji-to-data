@@ -518,6 +518,25 @@
       "emoji": "🖋️",
       "at": "2026-10-21T17:49:33.477Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518255986101399552/"
+    },
+    "web:a5a081fa02eb50c1f3ad7d7aea498b1a6fb07c15703479b6adcc0434a347d6d5:256018d9-7a6c-431c-975f-3a1325a11698": {
+      "post": {
+        "platform": "web",
+        "id": "a5a081fa02eb50c1f3ad7d7aea498b1a6fb07c15703479b6adcc0434a347d6d5",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
+      },
+      "placement": {
+        "id": "256018d9-7a6c-431c-975f-3a1325a11698",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > section:nth-of-type(1)",
+        "tag": "section",
+        "quote": "One of eMudhra's certificate authority private keys is the number 4. Not a number that starts with 4, or the number 4 followed by a few hundred random digits, j",
+        "x": 906,
+        "y": 523,
+        "mode": "point"
+      },
+      "emoji": "🔖",
+      "at": "2026-10-21T19:36:53.446Z",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
     }
   }
 }
