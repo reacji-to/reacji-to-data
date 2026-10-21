@@ -26,22 +26,22 @@
         }
       }
     },
-    "3b2a4ba4-b118-420f-ae3d-99d9cd43f7d5": {
+    "08b2fdbc-0511-4b72-b754-a1a87d38cc40": {
       "anchor": {
-        "id": "3b2a4ba4-b118-420f-ae3d-99d9cd43f7d5",
-        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > p:nth-of-type(1) > small:nth-of-type(1)",
-        "tag": "small",
-        "quote": "Your test reactions stay in this browser.",
-        "x": 779,
-        "y": 694,
+        "id": "08b2fdbc-0511-4b72-b754-a1a87d38cc40",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1)",
+        "tag": "section",
+        "quote": "Slack reacjis, anywhere. Trigger automations, bookmark things, kick off agents. Give this to your agent Use https://github.com/reacji-to/reacji-to/blob/main/SET",
+        "x": 325,
+        "y": 847,
         "mode": "point"
       },
       "users": {
         "180956": {
           "login": "mrjf",
           "emoji": "🙃",
-          "requestId": "8f1971a9-7659-4e69-bcd1-6f90cf128f41",
-          "at": "2026-10-21T17:46:47.424Z"
+          "requestId": "9aa65da8-2692-4ac0-96c9-2f10337c12d2",
+          "at": "2026-10-21T17:47:38.024Z"
         }
       }
     }

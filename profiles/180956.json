@@ -491,23 +491,23 @@
       "at": "2026-10-21T15:22:05.236Z",
       "url": "https://x.com/i/status/2112760499515555976"
     },
-    "web:622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445:3b2a4ba4-b118-420f-ae3d-99d9cd43f7d5": {
+    "web:622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445:08b2fdbc-0511-4b72-b754-a1a87d38cc40": {
       "post": {
         "platform": "web",
         "id": "622cdbe9728c9d2dccf9fdc8bef1f62c2363429b02dc5e518b1ab40d438da445",
         "url": "http://127.0.0.1:4173/"
       },
       "placement": {
-        "id": "3b2a4ba4-b118-420f-ae3d-99d9cd43f7d5",
-        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > p:nth-of-type(1) > small:nth-of-type(1)",
-        "tag": "small",
-        "quote": "Your test reactions stay in this browser.",
-        "x": 779,
-        "y": 694,
+        "id": "08b2fdbc-0511-4b72-b754-a1a87d38cc40",
+        "selector": "html:nth-of-type(1) > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1)",
+        "tag": "section",
+        "quote": "Slack reacjis, anywhere. Trigger automations, bookmark things, kick off agents. Give this to your agent Use https://github.com/reacji-to/reacji-to/blob/main/SET",
+        "x": 325,
+        "y": 847,
         "mode": "point"
       },
       "emoji": "🙃",
-      "at": "2026-10-21T17:46:47.424Z",
+      "at": "2026-10-21T17:47:38.024Z",
       "url": "http://127.0.0.1:4173/"
     }
   }
